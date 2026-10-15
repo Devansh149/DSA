@@ -73,38 +73,6 @@ topic when you have completed and reviewed its problems.
   subsequences, string DP, partition DP
 - [ ] Trie --- insert/search, prefix operations, Word Break, Word
   Search II, XOR trie
-🗂️ Repository Structure
-Example structure (the actual folders may evolve as I add more
-solutions):
-java-dsa-practice/
-├── README.md
-├── 01-programming-basics/
-├── 02-control-flow/
-├── 03-loops-and-patterns/
-├── 04-methods/
-├── 05-arrays-level-1/
-├── 06-searching-and-sorting/
-├── 07-matrices/
-├── 08-oop/
-├── 09-strings/
-├── 10-collections-and-hashing/
-├── 11-recursion/
-├── 12-mathematics/
-├── 13-arrays-level-2/
-├── 14-binary-search/
-├── 15-linked-list/
-├── 16-stack-and-queue/
-├── 17-bit-manipulation/
-├── 18-greedy/
-├── 19-backtracking/
-├── 20-trees-and-bst/
-├── 21-heaps/
-├── 22-sliding-window/
-├── 23-graphs/
-├── 24-dynamic-programming/
-└── 25-trie/
-Each solution is organized by topic. File and folder names may vary
-depending on how the practice set grows.
 ✅ Problem-Solving Checklist
 Use this section to track your progress as you work through the problem
 list.
@@ -128,7 +96,7 @@ list.
   9                       Sliding window and      ⬜ In progress
                           graphs                  
   10                      Dynamic programming and ⬜ In progress
-                      tries                   
+                          tries                   
 Update the checkboxes and status as you complete and revise each
 section.
 
