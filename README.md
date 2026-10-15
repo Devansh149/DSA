@@ -72,42 +72,8 @@ topic when you have completed and reviewed its problems.
 - [ ] Dynamic Programming --- memoization, tabulation, knapsack,
   subsequences, string DP, partition DP
 - [ ] Trie --- insert/search, prefix operations, Word Break, Word
-  Search II, XOR trie
-✅ Problem-Solving Checklist
-Use this section to track your progress as you work through the problem
-list.
-  Stage                   What to track           Status
-  1                       Programming basics,     ⬜ In progress
-                          control flow, loops and
-                          methods                 
-  2                       Arrays, searching,      ⬜ In progress
-                          sorting and matrices    
-  3                       OOP, strings and        ⬜ In progress
-                          collections             
-  4                       Recursion and           ⬜ In progress
-                          mathematics             
-  5                       Advanced arrays, binary ⬜ In progress
-                          search and hashing      
-  6                       Linked lists, stacks,   ⬜ In progress
-                          queues and bit
-                          manipulation            
-  7                       Greedy and backtracking ⬜ In progress
-  8                       Trees, BSTs and heaps   ⬜ In progress
-  9                       Sliding window and      ⬜ In progress
-                          graphs                  
-  10                      Dynamic programming and ⬜ In progress
-                          tries                   
-Update the checkboxes and status as you complete and revise each
-section.
+  Search II, XOR trie               
 
-💡 Problem-Solving Approach
-For each problem, my goal is to:
-1. Understand the problem statement and constraints.
-2. Work through examples and edge cases.
-3. Identify a suitable data structure or algorithmic pattern.
-4. Implement the solution in Java.
-5. Analyze time and space complexity where applicable.
-6. Test the solution and revisit it later for revision.
 🛠️ Tech Stack
 - Language: Java
 - Core concepts: Object-Oriented Programming, Collections
